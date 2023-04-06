@@ -8,6 +8,8 @@ body{
 background-image: url(project.png);
 box-sizing: border-box;
 font-family: sans-serif;
+background-repeat: no-repeat;
+background-size: cover;
 
 }
 .menu-bar{
